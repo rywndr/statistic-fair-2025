@@ -8,6 +8,12 @@ repo ini adalah untuk proyek kuliah, tujuan utamanya adalah untuk menganalisis s
 📥 Data untuk proyek ini dikumpulkan dengan melakukan **scraping review** dari Google Play Store dan App Store.  
 🛠️ Data tersebut kemudian **dibersihkan** dan dianalisis untuk mendapatkan wawasan tentang **sentimen pengguna**.
 
+jumlah sampel yang digunakan untuk analisis ini ditentukan dengan rumus slovin yaitu:
+
+$$
+n = \frac{N}{1 + N(e^2)}
+$$
+
 ---
 
 ### 🌍 _(en)_
@@ -15,6 +21,12 @@ repo ini adalah untuk proyek kuliah, tujuan utamanya adalah untuk menganalisis s
 this repo is for a college project, the main goal is to analyze the sentiments of people that use the **"Identitas Kependudukan Digital"** app launched by the Government of Indonesia on iOS and Android.  
 📥 The data for this project is collected by **scraping reviews** from the Google Play Store and App Store.  
 🛠️ The data is then **cleaned** and analyzed to gain insights about **user sentiments**.
+
+the sample size used for this analysis is determined by the slovin formula:
+
+$$
+n = \frac{N}{1 + N(e^2)}
+$$
 
 ---
 
